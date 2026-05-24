@@ -17,6 +17,7 @@ AI-powered ATS resume optimization platform built with Next.js and Tailwind CSS.
 - TypeScript
 
 ## Screenshot
+<img width="1920" height="1080" alt="Screenshot 2026-05-24 125210" src="https://github.com/user-attachments/assets/2c07791f-70a2-4a68-91f3-ac7b817c5fea" />
 
 
 ## Run Locally
